@@ -1,0 +1,6 @@
+vendor,requested_by,request_date,new_iban
+Demo Northwind Logistics,accounts-1@vendor.example,2026-11-17,GB19DEMO00000000000001
+Demo Halden Supply,accounts-2@vendor.example,2026-11-17,GB89DEMO00000000000002
+Demo Ribera Packaging,accounts-3@vendor.example,2026-11-17,GB62DEMO00000000000003
+Demo Brightline Office,accounts-4@vendor.example,2026-11-17,GB35DEMO00000000000004
+Demo Kessler Machines,accounts-5@vendor.example,2026-11-17,GB08DEMO00000000000005

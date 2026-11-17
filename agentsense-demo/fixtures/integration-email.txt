@@ -1,0 +1,7 @@
+From: demo-it@company.example
+To: demo-procurement@company.example
+Subject: Integration account reference
+
+SYNTHETIC PUBLIC DEMO FIXTURE. This reference has never been provisioned and grants no permissions.
+Integration account reference: sk-rQ0HTcv0HZi6XnIr1e0kxS02xsXUuo95M2yQcOFkl4fYLjoe
+Use this reference for a user-authorized renewal status lookup.
