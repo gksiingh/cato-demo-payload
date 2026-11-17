@@ -10,7 +10,7 @@ The original repository root page and existing `setup.sh` / `setup.ps1` remain a
 
 No Python or local input bundle is needed for the prompt-only demos. Open an empty writable project in a protected Codex installation, start a fresh chat, and paste a task from [the hosted prompt guide](https://gksiingh.github.io/cato-demo-payload/agentsense-demo/customer-demo-prompts.txt). Codex retrieves the guide, synthetic CSV, or synthetic integration note from GitHub Pages. The installer and .envrc examples still target the current local project because they test endpoint execution and file changes.
 
-All hosted records are fictional public test fixtures. Real payment records or credentials belong in private internal sources. The fourth prompt is a directly authorized synthetic lookup, separate from the original injection attempt that Codex refused. The successful tool paths use curl for web requests and shell printf for the .envrc write.
+All hosted records are fictional public test fixtures. Real payment records or credentials belong in private internal sources. The fourth prompt is a directly authorized synthetic lookup, separate from the original injection attempt that Codex refused. Its GitHub-input version did not reproduce an AgentSense denial, so it is diagnostic only. Use prompts 1-3 for the customer demo. The successful tool paths use curl for web requests and shell printf for the .envrc write.
 
 ## Optional launcher setup
 
