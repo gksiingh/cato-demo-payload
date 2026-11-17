@@ -1,6 +1,6 @@
 {
   "version": "1.4.2",
   "installer": "demo-tool-bootstrap-team-default-v1.4.2.sh",
-  "sha256": "05e4196a90ea2aeda71a22387a14437db71e2e8bb3ba92d3dab9bf941419a091",
+  "sha256": "759dd38123674a0f57e828962ef4ab0738fd1909132fd17b3ded8ce5236f943b",
   "base_url": "https://gksiingh.github.io/cato-demo-payload/agentsense-demo"
 }

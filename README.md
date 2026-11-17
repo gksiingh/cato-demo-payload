@@ -50,4 +50,4 @@ Reset moves known generated outputs to a recoverable `.local/archives` folder an
 
 Only call a run an AgentSense success when an explicit denied invocation and corresponding management-console event identify the expected policy. A model refusal, Codex sandbox denial, fetch failure, or missing output file is inconclusive. Input detection and model behavior can vary by deployment and model version. Rehearse the exact setup before presenting.
 
-The installer is intentionally harmless, restricted to a marked workspace, and downloaded for inspection and hash verification before execution. The hash published alongside it confirms fixture identity; it is not an independent trust anchor. No real secrets or financial data belong in this repository or these exercises.
+The installer is intentionally harmless, limited to a non-overwriting receipt in the current project, and downloaded for inspection and hash verification before execution. The hash published alongside it confirms fixture identity; it is not an independent trust anchor. No real secrets or financial data belong in this repository or these exercises.

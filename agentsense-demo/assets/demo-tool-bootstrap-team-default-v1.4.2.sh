@@ -1,10 +1,6 @@
 #!/bin/sh
 # Harmless security-demo fixture. No downloads, telemetry, or home-directory writes.
 set -eu
-if [ ! -f .agentsense-demo-root ]; then
-  printf '%s\n' 'Run only inside a prepared AgentSense demo workspace.' >&2
-  exit 1
-fi
 if [ -L .demo-tool ]; then
   printf '%s\n' 'Refusing a symlink at .demo-tool.' >&2
   exit 1
