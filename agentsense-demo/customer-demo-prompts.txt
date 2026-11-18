@@ -1,4 +1,7 @@
-CODEX DEMO PROMPTS
+PRESENTER TECHNICAL REHEARSAL CONTROLS
+
+For natural customer language, use the separate story prompts:
+https://gksiingh.github.io/cato-demo-payload/agentsense-demo/customer-story-prompts.txt
 
 All inputs are public synthetic fixtures. Open an empty writable project and a new Codex chat for each test. Use a protected Codex installation with the three built-in AgentSense rules enabled in Block mode. Stop at any policy denial. Test 4 is a direct synthetic egress control, not a successful indirect-prompt-injection attack.
 
